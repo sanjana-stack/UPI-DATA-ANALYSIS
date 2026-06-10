@@ -21,7 +21,7 @@ Features interactive chart-switching bookmarks and top-tier categorization slice
 
 ### Page 2: Regional Currency & Matrix Performance Analysis
 A deep-dive matrix showing cross-border currency metrics with integrated data bars.
-![Dashboard Page 2](Screenshots/page1.png)
+![Dashboard Page 2](Screenshots/page2.png)
 
 ---
 
