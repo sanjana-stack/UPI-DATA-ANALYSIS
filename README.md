@@ -17,11 +17,11 @@ This project tracks transactional behaviors across various dimensions (cities, m
 
 ### Page 1: Monthly Transaction & Balance Trends
 Features interactive chart-switching bookmarks and top-tier categorization slicers.
-![Dashboard Page 1](Screenshot 2026-06-10 141527.png)
+![Dashboard Page 1](Screenshots
 
 ### Page 2: Regional Currency & Matrix Performance Analysis
 A deep-dive matrix showing cross-border currency metrics with integrated data bars.
-![Dashboard Page 2](Screenshots/page2.png)
+![Dashboard Page 2](Screenshots/page1.png)
 
 ---
 
